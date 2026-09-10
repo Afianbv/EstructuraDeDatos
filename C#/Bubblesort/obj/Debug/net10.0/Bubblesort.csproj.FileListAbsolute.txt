@@ -1,0 +1,15 @@
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\obj\Debug\net10.0\Bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\obj\Debug\net10.0\Bubblesort.AssemblyInfoInputs.cache
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\obj\Debug\net10.0\Bubblesort.AssemblyInfo.cs
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\obj\Debug\net10.0\Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\obj\Debug\net10.0\Bubblesort.sourcelink.json
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\bin\Debug\net10.0\Bubblesort.exe
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\bin\Debug\net10.0\Bubblesort.deps.json
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\bin\Debug\net10.0\Bubblesort.runtimeconfig.json
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\bin\Debug\net10.0\Bubblesort.dll
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\bin\Debug\net10.0\Bubblesort.pdb
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\obj\Debug\net10.0\Bubblesort.dll
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\obj\Debug\net10.0\refint\Bubblesort.dll
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\obj\Debug\net10.0\Bubblesort.pdb
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\obj\Debug\net10.0\Bubblesort.genruntimeconfig.cache
+C:\Users\venta\Desktop\Escola\Programacion\C#\Bubblesort\obj\Debug\net10.0\ref\Bubblesort.dll

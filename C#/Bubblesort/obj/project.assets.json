@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\venta\\Desktop\\Escola\\Programacion\\C#\\Practica1\\Practica1.csproj",
-      "projectName": "Practica1",
-      "projectPath": "C:\\Users\\venta\\Desktop\\Escola\\Programacion\\C#\\Practica1\\Practica1.csproj",
+      "projectUniqueName": "C:\\Users\\venta\\Desktop\\Escola\\Programacion\\C#\\Bubblesort\\Bubblesort.csproj",
+      "projectName": "Bubblesort",
+      "projectPath": "C:\\Users\\venta\\Desktop\\Escola\\Programacion\\C#\\Bubblesort\\Bubblesort.csproj",
       "packagesPath": "C:\\Users\\venta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\venta\\Desktop\\Escola\\Programacion\\C#\\Practica1\\obj\\",
+      "outputPath": "C:\\Users\\venta\\Desktop\\Escola\\Programacion\\C#\\Bubblesort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\venta\\AppData\\Roaming\\NuGet\\NuGet.Config"
