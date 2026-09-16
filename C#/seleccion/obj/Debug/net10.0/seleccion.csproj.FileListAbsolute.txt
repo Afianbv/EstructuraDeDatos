@@ -1,0 +1,15 @@
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\obj\Debug\net10.0\seleccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\obj\Debug\net10.0\seleccion.AssemblyInfoInputs.cache
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\obj\Debug\net10.0\seleccion.AssemblyInfo.cs
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\obj\Debug\net10.0\seleccion.csproj.CoreCompileInputs.cache
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\obj\Debug\net10.0\seleccion.sourcelink.json
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\bin\Debug\net10.0\seleccion.exe
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\bin\Debug\net10.0\seleccion.deps.json
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\bin\Debug\net10.0\seleccion.runtimeconfig.json
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\bin\Debug\net10.0\seleccion.dll
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\bin\Debug\net10.0\seleccion.pdb
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\obj\Debug\net10.0\seleccion.dll
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\obj\Debug\net10.0\refint\seleccion.dll
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\obj\Debug\net10.0\seleccion.pdb
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\obj\Debug\net10.0\seleccion.genruntimeconfig.cache
+C:\Users\venta\Desktop\Escola\Programacion\C#\seleccion\obj\Debug\net10.0\ref\seleccion.dll
