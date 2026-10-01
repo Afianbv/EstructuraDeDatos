@@ -1,0 +1,15 @@
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\bin\Debug\net10.0\merge.exe
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\bin\Debug\net10.0\merge.deps.json
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\bin\Debug\net10.0\merge.runtimeconfig.json
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\bin\Debug\net10.0\merge.dll
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\bin\Debug\net10.0\merge.pdb
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\obj\Debug\net10.0\merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\obj\Debug\net10.0\merge.AssemblyInfoInputs.cache
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\obj\Debug\net10.0\merge.AssemblyInfo.cs
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\obj\Debug\net10.0\merge.csproj.CoreCompileInputs.cache
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\obj\Debug\net10.0\merge.sourcelink.json
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\obj\Debug\net10.0\merge.dll
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\obj\Debug\net10.0\refint\merge.dll
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\obj\Debug\net10.0\merge.pdb
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\obj\Debug\net10.0\merge.genruntimeconfig.cache
+C:\Users\venta\Desktop\Escola\Programacion\C#\merge\obj\Debug\net10.0\ref\merge.dll

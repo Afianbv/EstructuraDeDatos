@@ -241,13 +241,11 @@ void movvalido(char a[8][8], int x, int y, bool turno)
 {
     int dir;
     int error = 0;
-
     do
     {
         error = 0;
         int destX = -1, destY = -1;
         int saltoX = -1, saltoY = -1;
-
         if (a[x][y] == 'N' || a[x][y] == 'B')
         {
             cout << "Mover REY: [1]Arriba-Izq [2]Arriba-Der [3]Abajo-Izq [4]Abajo-Der: ";
@@ -340,13 +338,11 @@ void movvalido(char a[8][8], int x, int y, bool turno)
                 }
             }
         }
-
         if (destX < 0 || destX > 7 || destY < 0 || destY > 7)
         {
             cout << "Te sales del mapa." << endl;
             error = 1;
         }
-
         else if (a[destX][destY] == '.')
         {
             a[destX][destY] = a[x][y];
@@ -354,14 +350,12 @@ void movvalido(char a[8][8], int x, int y, bool turno)
             coronar(a, destX, destY);
             break;
         }
-
         else if ((turno == true && (a[destX][destY] == 'n' || a[destX][destY] == 'N')) ||
                  (turno == false && (a[destX][destY] == 'b' || a[destX][destY] == 'B')))
         {
             cout << "Hay una pieza tuya en esa posicion." << endl;
             error = 1;
         }
-
         else
         {
             if (saltoX >= 0 && saltoX <= 7 && saltoY >= 0 && saltoY <= 7 && a[saltoX][saltoY] == '.')
@@ -369,13 +363,9 @@ void movvalido(char a[8][8], int x, int y, bool turno)
                 a[saltoX][saltoY] = a[x][y];
                 a[x][y] = '.';
                 a[destX][destY] = '.';
-                cout << "Comiste una pieza!" << endl;
-
                 int nuevaFila = saltoX;
                 int nuevaCol = saltoY;
-
                 seguirComiendo(a, nuevaFila, nuevaCol, turno);
-
                 coronar(a, nuevaFila, nuevaCol);
                 break;
             }
@@ -395,7 +385,6 @@ void moverpieza(char a[8][8], bool turno)
     esunapieza(a, f, h, turno);
     movvalido(a, f, h, turno);
 }
-
 void guardarTablero(char a[8][8], char historial[200][8][8], int &totalTurnos)
 {
     int i, j;
@@ -408,7 +397,6 @@ void guardarTablero(char a[8][8], char historial[200][8][8], int &totalTurnos)
     }
     totalTurnos++;
 }
-
 int main()
 {
     bool turno = false; // false = blancas true =negras
@@ -429,9 +417,7 @@ int main()
 
     // Guardamos el tablero inicial como turno 0
     guardarTablero(mapa, historial, totalTurnos);
-
     cout << "JUEGO DE DAMAS" << endl;
-
     do
     {
         if (turno == true)
@@ -443,14 +429,10 @@ int main()
 
         imprimirMapa(mapa);
         moverpieza(mapa, turno);
-
         // Guardamos el tablero despues de que se movio
         guardarTablero(mapa, historial, totalTurnos);
-
         quiengana(mapa, gano, turno);
-
     } while (gano == 0);
-
     imprimirMapa(mapa);
     if (turno == false)
     {
@@ -460,7 +442,6 @@ int main()
     {
         cout << "Felicidades ganaron las blancas" << endl;
     }
-
     // Preguntar si quiere reproducir los movimientos
     int respuesta;
     cout << endl
